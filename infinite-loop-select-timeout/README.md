@@ -1,4 +1,4 @@
-# infinite-loop-select-timeout-not-accurate
+# infinite-loop-select-timeout
 
 `Select` grammar:
 1.Every case `must be` a channel.
