@@ -1,0 +1,4 @@
+github.com/sparrc/go-ping v0.0.0-20160208162908-416e72114cd1 h1:bl/ykDbLxEA88fWNi1eBi+EdIPg1uvIuq4z89mwvq/M=
+github.com/sparrc/go-ping v0.0.0-20160208162908-416e72114cd1/go.mod h1:eMyUVp6f/5jnzM+3zahzl7q6UXLbgSc3MKg/+ow9QW0=
+golang.org/x/net v0.0.0-20170114055629-f2499483f923 h1:cLl2p2++IYXqH4YzQ7uIc7QLOa4SU0x1vSy9Da++V94=
+golang.org/x/net v0.0.0-20170114055629-f2499483f923/go.mod h1:mL1N/T3taQHkDXs73rZJwtUhF3w3ftmwwsq0BUmARs4=
